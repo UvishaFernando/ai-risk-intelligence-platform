@@ -156,22 +156,15 @@ npm start
 
 ---
 
-## 📸 Screenshots(Coming Soon)
 
-
----
-
-## 🎥 Demo(Coming Soon)
-
-
----
 
 ## 📚 Research Background
 
-This project is inspired by real-world challenges in modern banking systems and aligns with global practices in countries such as:
+This project is inspired by real-world challenges in modern banking systems and reflects practices used in advanced financial ecosystems such as United States and United Kingdom.
 
-* United States
-* United Kingdom
+These systems leverage Artificial Intelligence, real-time data processing, and integrated risk management frameworks to detect fraud, predict financial risks, and support decision-making at scale.
+
+The proposed platform adapts these concepts into a simplified, prototype-level solution tailored to address key gaps in emerging banking environments
 
 ---
 
